@@ -5,3 +5,4 @@ const c = 3;
 b = a + c;
 
 console.log(b);
+console.log(a+b+c);
